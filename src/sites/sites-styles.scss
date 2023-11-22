@@ -1,0 +1,42 @@
+.container {
+    padding-left: 20px;
+    padding-right: 20px;
+
+    .sub-info {
+        text-align: center;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .cards {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 50px;
+        grid-row-gap: 50px;
+        justify-items: center;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+}
+
+
+
+
+
+@media (max-width: 780px) {
+    .container {
+        padding-left: 0;
+        padding-right: 0;
+        .cards {
+            grid-template-columns: repeat(1, 1fr);
+            padding-left: 0px;
+            padding-right: 0px;
+        }
+    }
+
+
+}
+
