@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.1c800277.css",
-    "main.js": "/static/js/main.7bedb418.js",
-    "static/media/stones.jpg": "/static/media/stones.6f548105d4812fffe3cb.jpg",
-    "static/media/header.jpg": "/static/media/header.b0b519c8aa42285627bc.jpg",
-    "static/media/pruning.jpg": "/static/media/pruning.4b3161bf0f5a376de51b.jpg",
-    "static/media/grass.jpg": "/static/media/grass.954c4a8d1ec5f37fa18d.jpg",
-    "static/media/flower.jpg": "/static/media/flower.704126a642db0aa0f70f.jpg",
-    "index.html": "/index.html",
-    "main.1c800277.css.map": "/static/css/main.1c800277.css.map",
-    "main.7bedb418.js.map": "/static/js/main.7bedb418.js.map"
+    "main.css": "/tradgard/static/css/main.1c800277.css",
+    "main.js": "/tradgard/static/js/main.6359b28a.js",
+    "static/media/stones.jpg": "/tradgard/static/media/stones.6f548105d4812fffe3cb.jpg",
+    "static/media/header.jpg": "/tradgard/static/media/header.b0b519c8aa42285627bc.jpg",
+    "static/media/pruning.jpg": "/tradgard/static/media/pruning.4b3161bf0f5a376de51b.jpg",
+    "static/media/grass.jpg": "/tradgard/static/media/grass.954c4a8d1ec5f37fa18d.jpg",
+    "static/media/flower.jpg": "/tradgard/static/media/flower.704126a642db0aa0f70f.jpg",
+    "index.html": "/tradgard/index.html",
+    "main.1c800277.css.map": "/tradgard/static/css/main.1c800277.css.map",
+    "main.6359b28a.js.map": "/tradgard/static/js/main.6359b28a.js.map"
   },
   "entrypoints": [
     "static/css/main.1c800277.css",
-    "static/js/main.7bedb418.js"
+    "static/js/main.6359b28a.js"
   ]
 }

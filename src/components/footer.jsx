@@ -4,8 +4,17 @@ import './footer-stryles.scss';
 function Footer() {
   return (
     <div className="footer-container">
-      Detta är en footer
-      Här kan man också skriva saker om man vill
+      <div className="wrapper">
+        <div>
+          <span>Ring mig på </span>
+          <a href="tel:+00000000">00000000</a>
+        </div>
+        <div>
+          <span>Skicka ett </span>
+          <a href="mailto:someone@yoursite.com">email</a>
+
+        </div>
+      </div>
     </div>
   );
 }
